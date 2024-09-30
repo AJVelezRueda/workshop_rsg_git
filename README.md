@@ -21,3 +21,4 @@ code .
 ### Colaboradorxs
 
 Ibel Carri (Centro de Investigaciones Oncológicas - FUCA)
+Barbara Ghiglione (Laboratorio de Resistencia Bacteriana - IBaViM - FFyB - UBA)
